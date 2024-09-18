@@ -4,3 +4,4 @@
 2. If you just want to generate a sequence of radar signals and save them, run mat_data_gen. mat_data_gen_5pathdelay is a signal simulation environment that incorporates time delays and other factors.
 3. Make sure you download the “tftb” signal time-frequency analysis toolkit and introduce the path to your MATLAB before running the code.
 4. The download link for the tftb toolkit is: http://www.nongnu.org/tftb/
+5. Some places may need to be commented or un-commented to achieve your needs, such as getting the time-frequency plot dataset and saving it automatically, for details, please refer to the comments of the specific code and instructions for use.
